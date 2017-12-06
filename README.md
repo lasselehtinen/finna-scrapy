@@ -5,7 +5,7 @@
  4. Clone this git repo
 
 # Important files
-###finna/items.py
+### finna/items.py
 Holds the definition for the Finna items.
 
     import scrapy
